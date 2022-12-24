@@ -1,0 +1,4 @@
+
+this file am open to edit by using "Nano command"
+
+This is my first sample file
